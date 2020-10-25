@@ -14,6 +14,7 @@ for(int row=0;row<=i;row++)
         cout<<a[i][j]<<" " ;
 
     }
+    cout<<"\n";
 
 }
 return 0;
