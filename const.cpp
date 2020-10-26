@@ -7,6 +7,7 @@ class student
 
 public:
     int put_no(int);
+    void diplay();
 
 };
 int student::put_no(int)
