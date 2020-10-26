@@ -45,6 +45,10 @@ public class linkedlist4 {
         System.out.println(); }
     public static void main(String[] args) {
         linkedlist4 sList = new linkedlist4();
+        sList.addNode(1);
+        sList.addNode(2);
+        sList.addNode(3);
+        sList.addNode(4);
        
         System.out.println("Original List: ");
         sList.display();
